@@ -1,1 +1,35 @@
-Gml
+Here is the erorr
+Running Crystal_main_menu_ui.gml remotely..
+
+/box/script.js:1
+draw_set_halign(fa_left);
+^
+
+ReferenceError: draw_set_halign is not defined
+    at Object.<anonymous> (/box/script.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+
+
+Program finished in 0.097s with 6708.0KB of memory.Execution completed in 1.373s
+Error: Running Crystal_main_menu_ui.gml remotely..
+
+/box/script.js:1
+draw_set_halign(fa_left);
+^
+
+ReferenceError: draw_set_halign is not defined
+    at Object.<anonymous> (/box/script.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:959:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:995:10)
+    at Module.load (internal/modules/cjs/loader.js:815:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:727:14)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:1047:10)
+    at internal/main/run_main_module.js:17:11
+
+
+Program finished in 0.097s with 6708.0KB of memory.
